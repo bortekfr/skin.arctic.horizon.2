@@ -319,7 +319,7 @@ msgstr "Diviser"
 #: /1080i/Custom_Recommend_1120.xml
 msgctxt "#31060"
 msgid "Premiered in"
-msgstr "Première le"
+msgstr "Sortis en"
 
 #: /1080i/Custom_Recommend_1120.xml
 msgctxt "#31061"
